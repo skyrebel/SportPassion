@@ -20,15 +20,13 @@ body{
 }
 
 .construction{
-    height: 800px;
-    /* width: 2048px; */
+    height: 800px;   
     background-color: black;
 }
 
 .text-construction{
     font-family: 'Varela Round';
-    color: rgb(177, 172, 172);
-    /* margin-left: 300px; */
+    color: rgb(177, 172, 172);    
     font-size: 0px;
     font-size: 90px !important;
     transition: font-size 2s linear, color 5s linear !important;
