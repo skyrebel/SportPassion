@@ -1,0 +1,49 @@
+body{
+    color: black !important;
+    height: 100vh;
+    width: 1920px;
+}
+
+.header{
+    background-color: black !important;
+    
+}
+
+.logo{
+
+    align-self: center;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    margin: 0 auto;
+    
+}
+
+.construction{
+    height: 800px;
+    /* width: 2048px; */
+    background-color: black;
+}
+
+.text-construction{
+    font-family: 'Varela Round';
+    color: rgb(177, 172, 172);
+    /* margin-left: 300px; */
+    font-size: 0px;
+    font-size: 90px !important;
+    transition: font-size 2s linear, color 5s linear !important;
+    font-size: 0px;
+    align-self: center;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    margin: 0 auto;
+    position: absolute;
+    transition: font-size 2s linear;
+}
+
+.text-construction_big{
+    font-size: 90px !important;
+    transition: font-size 2s linear, color 5s linear !important;
+    color: #45d1c8;
+}
