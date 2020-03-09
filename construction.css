@@ -1,7 +1,7 @@
 body{
     color: black !important;
     height: 100vh;
-    width: 1920px;
+    width: 100%;
 }
 
 .header{
@@ -44,4 +44,29 @@ body{
     font-size: 90px !important;
     transition: font-size 2s linear, color 5s linear !important;
     color: #45d1c8;
+}
+
+.container{
+
+    background-color: black;
+    width: 1920px;
+    align-self: center;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    margin: 0 auto;
+    position: absolute;
+
+}
+
+.img{
+    top: 50px;
+    position: absolute;
+    margin-left: 0;
+}
+
+.img2{
+    top: 50px;
+    /* position: absolute; */
+    margin-right: 0;
 }
