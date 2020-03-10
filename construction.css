@@ -47,10 +47,10 @@ body{
 } 
 
 .text-construction{
-    font-family: 'Varela Round';
+    font-family: 'Arial';
     color: rgb(177, 172, 172);    
     font-size: 0px;
-    font-size: 30px !important;
+    font-size: 27px !important;
     transition: font-size 2s linear, color 5s linear !important;
     font-size: 0px;
     align-self: center;
@@ -88,8 +88,7 @@ body{
 }
 
 .footer{
-    height: 80px;
-    /* background: linear-gradient(to bottom, to top rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%); */
+    height: 80px;    
     align-self: center;
     width: 100%;
     text-align: center;
