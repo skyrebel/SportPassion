@@ -9,9 +9,20 @@ body{
     
 }
 
-.logo{
+.container-fluid{
+    background-color: black !important;
+}
 
-    align-self: center;
+.banner{
+    background-color: black !important;
+    width: 50%;
+    justify-content: center !important;
+    text-align: center !important;
+    justify-self: center !important;
+    margin: 0 auto;
+}
+
+.logo{   
     width: 100%;
     text-align: center;
     justify-self: center;
@@ -22,13 +33,24 @@ body{
 .construction{
     height: 800px;   
     background-color: black;
+
+
 }
+
+.construction-pix{
+
+    align-self: center;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    margin-left: 400px;
+} 
 
 .text-construction{
     font-family: 'Varela Round';
     color: rgb(177, 172, 172);    
     font-size: 0px;
-    font-size: 90px !important;
+    font-size: 30px !important;
     transition: font-size 2s linear, color 5s linear !important;
     font-size: 0px;
     align-self: center;
@@ -59,10 +81,10 @@ body{
 
 }
 
-.img{
+/* .img{
     top: 50px;
     position: absolute;
-    margin-left: 0;
+    margin-left: 0; */
 }
 
 .img2{
