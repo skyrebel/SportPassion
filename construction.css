@@ -31,7 +31,7 @@ body{
 }
 
 .construction{
-    height: 800px;   
+    height: 300px;   
     background-color: black;
 
 
@@ -81,14 +81,21 @@ body{
 
 }
 
-/* .img{
-    top: 50px;
-    position: absolute;
-    margin-left: 0; */
-}
-
 .img2{
     top: 50px;
     /* position: absolute; */
     margin-right: 0;
+}
+
+.footer{
+    background: linear-gradient(to bottom, to top rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%)
+}
+
+
+.text-footer{
+    align-self: center;
+    width: 100%;
+    text-align: center;
+    justify-self: center;
+    color: rgba(160, 156, 156, 0.836) !important;
 }
